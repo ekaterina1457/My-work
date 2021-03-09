@@ -14,12 +14,15 @@
 2 3
 
 1 2 3
+
 4 5 6
 
 **Sample Output 1:**
 
 1 4
+
 2 5
+
 3 6
 
 **Sample Input 2:**
@@ -27,11 +30,13 @@
 2 2
 
 1 2
+
 3 4
 
 **Sample Output 2:**
 
 1 3
+
 2 4
 
 **Solution / Решение**
